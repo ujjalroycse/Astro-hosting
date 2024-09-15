@@ -75,6 +75,7 @@
         width: 0;
         z-index: 1;
         transition: 0.5s;
+        overflow: hidden;
     }
     .menu.menuSlide{
         width: 200px;
